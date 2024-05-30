@@ -1,0 +1,30 @@
+img{
+    display: block;
+    margin: auto; 
+    text-align: center;
+    font: bolder;
+ }
+
+ h1{
+    color: red;
+    text-align: center;
+    margin: auto;
+    font: bold;}
+
+ h2{
+    color: red;
+    text-align: center;
+    font: size 30px;
+ }
+
+ p{
+    color: black;
+    text-align: center;
+    margin: auto;
+    font-style: italic;
+    font-weight: bold;
+ }
+ #secparag{
+    text-align: center;
+    margin: auto;
+ }
